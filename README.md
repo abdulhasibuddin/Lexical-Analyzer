@@ -1,2 +1,2 @@
 # Lexical-Analyzer
-Under development
+Based on C programming structure

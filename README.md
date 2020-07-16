@@ -1,2 +1,3 @@
 # Lexical-Analyzer
-Based on C programming structure
+
+This software analyzes C programming structures successfully on syntax-level. It is also a pure Python implementation and accessible publicly.
